@@ -12,6 +12,7 @@ Basis: uitleg, spelen, afgaan en punten
 - [ ] teken speler
 - [ ] beweeg speler
 - [ ] maak speler paars
+- [ ] geef de speler een hoofd
 - [ ] ... *(vul zelf aan)*
 - [ ] punten op scherm zetten
 - [ ] punten kunnen scoren
